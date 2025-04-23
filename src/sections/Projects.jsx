@@ -24,7 +24,7 @@ function Projects() {
     }
 
   return (
-    <section className="c-space my-20">
+    <section className="c-space my-20" id='work'>
         <p className="head-text ">My Works</p>
 
         <div className="grid lg:grid-cols-2 grid-cols-1 mt-12 gap-5 w-full">
@@ -59,12 +59,7 @@ function Projects() {
                         ))}
                     </div>
 
-                    <a className="flex items-center gap-2 cursor-pointer text-white-600" href={currnetProjects.href} target="_blank" rel="noreferrer">
-                        <p>
-                            Check Live Site
-                        </p>
-                        <img src="/assets/arrow-up.png" className="w-3 h-3" alt="arrow"/>
-                    </a>
+                   
                 </div>
 
                 <div className="flex justify-between items-center mt-7">

@@ -35,7 +35,7 @@ function About() {
                 
                     <div>
                         <p className="grid-headtext">Tech Stach</p>
-                        <p className="grid-subtext">I specialize in Javascript/typeScript with a foucs on React Native - expo - and React .js and next .js ecosystem.</p>
+                        <p className="grid-subtext">I specialize in Javascript/typeScript with a foucs on React Native - expo - and React .js and next .js.</p>
 
                     </div>
                 </div>  
