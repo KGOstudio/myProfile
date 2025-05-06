@@ -20,9 +20,9 @@ function Footer() {
                 <img src="/assets/twitter.svg" alt="twitter" className="w-1/2 h-1/2" />
             </div>
 
-            <div className="social-icon">
+            <a className="social-icon" href="https://www.instagram.com/weko.studio1/" >
                 <img src="/assets/instagram.svg" alt="instagram" className="w-1/2 h-1/2" />
-            </div>
+            </a>
         </div>
 
         <p className="text-white-500" >@ 2025 weko. All rights reserved</p>

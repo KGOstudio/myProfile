@@ -132,6 +132,43 @@ export const navLinks = [
       ],
     },
     {
+      title: 'Sportify',
+      desc: 'Imaginify is a groundbreaking Software-as-a-Service application that empowers users to create stunning photo manipulations using AI technology. With features like AI-driven image editing, a payments system, and a credits-based model.',
+      subdesc:
+        'Sportify is a web application designed to help amateur and professional athletes, teams, and sports fans track events, monitor player performance, and analyze team statistics over time. It allows users to schedule sports events, track team performances, log individual player statistics, and compare results over time.',
+      href: 'https://www.youtube.com/watch?v=Ahwoks_dawU',
+      texture: '/textures/project/project5.mp4',
+      logo: 'https://cdn-icons-png.flaticon.com/128/763/763812.png',
+      logoStyle: {
+        backgroundColor: '#1C1A43',
+        border: '0.2px solid #252262',
+        boxShadow: '0px 0px 60px 0px #635BFF4D',
+      },
+      spotlight: '/assets/spotlight5.png',
+      tags: [
+        {
+          id: 1,
+          name: 'React.js',
+          path: '/assets/react.svg',
+        },
+        {
+          id: 2,
+          name: 'TailwindCSS',
+          path: 'assets/tailwindcss.png',
+        },
+        {
+          id: 3,
+          name: 'TypeScript',
+          path: 'https://webimages.mongodb.com/_com_assets/cms/kuyj3d95v5vbmm2f4-horizontal_white.svg?auto=format%252Ccompress',
+        },
+        {
+          id: 4,
+          name: 'Framer Motion',
+          path: 'https://cdn-icons-png.flaticon.com/128/14777/14777106.png',
+        },
+      ],
+    },
+    {
       title: 'myBag - school Management System',
       desc: 'An innovative healthcare platform designed to streamline essential medical processes. It simplifies patient registration, appointment scheduling, and medical record management, providing a seamless experience for both healthcare providers and patients.',
       subdesc:
@@ -167,6 +204,43 @@ export const navLinks = [
           id: 4,
           name: 'Framer Motion',
           path: 'https://cdn-icons-png.flaticon.com/128/5968/5968342.png',
+        },
+      ],
+    },
+    {
+      title: 'E-commerce Website',
+      desc: 'Imaginify is a groundbreaking Software-as-a-Service application that empowers users to create stunning photo manipulations using AI technology. With features like AI-driven image editing, a payments system, and a credits-based model.',
+      subdesc:
+        'Build a full-featured e-commerce website where users can browse products, add items to their cart, and make purchases. Implement product search, product filtering by category, user reviews, and an admin panel for managing product listings.',
+      href: 'https://www.youtube.com/watch?v=Ahwoks_dawU',
+      texture: '/textures/project/project5.mp4',
+      logo: 'https://cdn-icons-png.flaticon.com/128/5855/5855886.png',
+      logoStyle: {
+        backgroundColor: 'lightblue',
+        border: '0.2px solid white',
+        boxShadow: '0px 0px 60px 0px lightblue',
+      },
+      spotlight: '/assets/spotlight5.png',
+      tags: [
+        {
+          id: 1,
+          name: 'React.js',
+          path: '/assets/react.svg',
+        },
+        {
+          id: 2,
+          name: 'TailwindCSS',
+          path: 'assets/tailwindcss.png',
+        },
+        {
+          id: 3,
+          name: 'TypeScript',
+          path: 'https://cdn-icons-png.flaticon.com/128/5968/5968382.png',
+        },
+        {
+          id: 4,
+          name: 'Framer Motion',
+          path: 'https://cdn-icons-png.flaticon.com/128/5968/5968322.png',
         },
       ],
     },
@@ -270,7 +344,7 @@ export const navLinks = [
     {
       id: 2,
       name: 'Figma',
-      pos: 'mobile Developer',
+      pos: 'mobile Developer and full stack Developer',
       duration: '2023 - 2024',
       title: "Figma is my collaborative design platform of choice. I utilize it to work seamlessly with team members and clients, facilitating real-time feedback and design iterations. Its cloud-based.",
       icon: '/assets/figma.svg',
@@ -279,8 +353,8 @@ export const navLinks = [
     {
       id: 3,
       name: 'Notion',
-      pos: 'Junior mobile Developer',
-      duration: '2022 - 2023',
+      pos: 'Junior mobile Developer and full stack Developer',
+      duration: '2021 - 2023',
       title: "Notion helps me keep my projects organized. I use it for project management, task tracking, and as a central hub for documentation, ensuring that everything from design notes to.",
       icon: '/assets/notion.svg',
       animation: 'salute',

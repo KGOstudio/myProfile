@@ -24,7 +24,7 @@ function About() {
                     <p className="grid-headtext">Hi, I'm mustafa zidan</p>
 
                     <p className="grid-subtext">
-                        with 3 years of experience, I have honed my skills in frontend and backend development, with a foucs on react native mobile development and next js for websites.
+                        with 3 years of experience, I have honed my skills in frontend and backend development, with a foucs on react native mobile development and React js and next js for websites.
                     </p>
                 </div>
             </div>
